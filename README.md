@@ -1,16 +1,7 @@
 <!-- Headings -->
 # About me
 
-
-<!-- Horizontal Rule -->
-
----
-
-___
-
-<!-- Blockquote -->
-> This is a quote
-
+Hello, my name is Thanh Duong, and I live in Sammamish! My birthday is on the first day of spring! I like to play sports, video games, and watch movies. I play soccer and tennis.
 <!-- Links -->
 [Algebra AOPS](https://bellevue.aopsacademy.org/)
 
