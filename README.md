@@ -12,11 +12,10 @@ Hobbies!
      * Soccer
      * Tennis
  
+Goals from coding
 
-  Goals from coding
-
-  * I want to be able to create a game site on github so I could sell the websites at school to other kids so that they can play games
-  * I want to be able to build and design websites to help me in my computer science career
+* I want to be able to create a game site on github so I could sell the websites at school to other kids so that they can play games
+* I want to be able to build and design websites to help me in my computer science career
 
 
 
