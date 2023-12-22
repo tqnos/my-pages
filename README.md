@@ -14,5 +14,5 @@ Hobbies!
 
 
 <!-- Images -->
-![This is my dog](![media production #7](https://github.com/tqnos/my-pages/assets/154554881/8bbbedc1-d68a-4f78-8b6c-d9740535b1cf)
+!(![media production #7](https://github.com/tqnos/my-pages/assets/154554881/8bbbedc1-d68a-4f78-8b6c-d9740535b1cf)
 )
