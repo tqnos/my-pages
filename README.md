@@ -1,7 +1,7 @@
 <!-- Headings -->
 # About me
 
-Hello, my name is Thanh Duong, and I live in Sammamish! My birthday is on the first day of spring!  I do algebra at AOPS and I'm currently learning to write code with my dad and brother.
+Hello, my name is Thanh Duong, and I live in Sammamish! My birthday is on the first day of spring!  I do algebra at AOPS and I'm currently learning to write code with my dad and brother. I'm the asb treasurer of my school.
 
 Hobbies!
 * Gaming
