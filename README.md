@@ -1,11 +1,7 @@
 <!-- Headings -->
 # About me
 
-Hello, my name is Thanh Duong, and I live in Sammamish! My birthday is on the first day of spring! I like to play sports, video games, and watch movies. I play soccer and tennis.
-<!-- Links -->
-[Algebra AOPS](https://bellevue.aopsacademy.org/)
-
-[Algebra AOPS](https://bellevue.aopsacademy.org/)
+Hello, my name is Thanh Duong, and I live in Sammamish! My birthday is on the first day of spring! I like to play sports, video games, and watch movies. I play soccer and tennis. I do algebra at AOPS and I'm currently learning to write code with my dad and brother.
 
 <!-- UL -->
 * Item 1
@@ -19,11 +15,11 @@ Hello, my name is Thanh Duong, and I live in Sammamish! My birthday is on the fi
 1. Item 2
 1. Item 3
 
-<!-- Inline Code Block -->
-`<p>This is a paragraph<p>`
+
 
 <!-- Images -->
-![Dog Picture](https://iso.500px.com/wp-content/uploads/2015/08/dog1_Cover-1500x1000.jpeg)
+![Dog Picture](![media production #7](https://github.com/tqnos/my-pages/assets/154554881/8bbbedc1-d68a-4f78-8b6c-d9740535b1cf)
+)
 
 <!-- Github Markdown -->
 
